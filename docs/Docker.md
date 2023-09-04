@@ -1,0 +1,2 @@
+#Docker
+Docker - bu ochiq kodli platforma bo'lib, yengil ishlovchi, portativ konteynerlarda ilovalarni yaratish, joylashtirish va boshqarishni avtomatlashtiradi. Ushbu konteynerlar dasturiy ta'minotni ishga tushirish uchun zarur bo'lgan hamma narsani, jumladan dasturiy ta'minot kodlari, dasturiy ta'minot ishlashi uchun zarur bo'lgan dasturlar (runtimes) , tizim vositalari va kutubxonalarni o'z ichiga oladi va turli muhitlarda barqaror va ishonchli ishlashni ta'minlaydi.
